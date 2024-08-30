@@ -1,8 +1,8 @@
 # reSupply Data Scientist Assessment
 
-![preview](preview.png)
-
 This repository contains all the necessary files and scripts to showcase the dashboard and data wrangling SQL for the assessment.
+
+![preview](preview.png)
 
 ## Contents
 
