@@ -27,7 +27,7 @@ The final dataset resulting from the SQL queries is stored in this CSV file. Thi
 
 ## How to Run the Shiny App
 
-1. **Clone the repository**:
+1. **Clone the repository**
 
 2. **Open RStudio and load the app.R file**
 
